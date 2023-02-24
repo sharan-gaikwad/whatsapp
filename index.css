@@ -1,0 +1,14 @@
+.header-1{
+    border: solid 1px red;
+    height: 50px;
+    width: 225px;
+    background-color: green;
+    display: inline-block;
+}
+.header-2{
+border: solid 1px green;
+display: inline-block;
+height: 50px;
+width: 225px;
+margin-left: 170px;
+}
